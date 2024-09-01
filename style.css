@@ -2,3 +2,7 @@
     font-family: soft-font;
     src: url("../resources/fonts/VarelaRound-Regular.ttf");
 }
+body{
+    display: flex;
+    flex-direction: column;
+}
